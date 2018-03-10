@@ -1,0 +1,3 @@
+[submodule "CLI-Starter-Kit"]
+	path = CLI-Starter-Kit
+	url = https://github.com/brandon-irl/CLI-Starter-Kit.git
